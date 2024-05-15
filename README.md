@@ -14,7 +14,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%A2mara-mac%C3%AAdo-7148b1305/
 
-![Josef's GitHub stats]https://github.com/tamaramacedo/tamaramacedo.git
+![Tamara GitHub stats]https://github.com/tamaramacedo/tamaramacedo.git
 
 ## Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOSEFTALSON&langs_count=8&theme=dark)
